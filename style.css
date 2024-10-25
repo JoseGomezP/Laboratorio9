@@ -20,7 +20,7 @@ nav a:hover{
 }
 /*Sesion principal*/
 .container{
-    width: 75%;
+    width: 70%;
     margin: 20px auto;
     padding: 15px;
     background-color: azure;
@@ -32,7 +32,7 @@ nav a:hover{
 }
 .container p{
     color: rgb(48, 233, 23);
-    font-size: 15px;
+    font-size: 20px;
     line-height: 2.0;
 }
 footer{
