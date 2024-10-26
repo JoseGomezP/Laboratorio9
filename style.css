@@ -45,3 +45,11 @@ footer{
     margin-top: 20px;
     border-radius: 10px;
 }
+.ContenedorP{
+    width: 70%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(14, 61, 88);
+}
