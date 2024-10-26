@@ -31,6 +31,8 @@ nav a:hover{
 }
 .container h2{
     color: blue;
+    text-align: center;
+    display: block;
 }
 .container p{
     color: rgb(48, 233, 23);
@@ -44,7 +46,4 @@ footer{
     padding: 15px;
     margin-top: 20px;
     border-radius: 10px;
-}
-.cont2{
-    display: block;
 }
