@@ -25,6 +25,8 @@ nav a:hover{
     padding: 15px;
     background-color: azure;
     border-radius: 10px;
+    display: flex;
+    align-items: flex-start;
     box-shadow: 0 0 10px rgb(14, 61, 88);
 }
 .container h2{
